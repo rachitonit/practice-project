@@ -7,5 +7,5 @@
 # Write your name, favorite tech stack, where you work 
 
 1. Rachit singh, `go lang + MERN stack` , Associate engineer at cepialabs. 
-
+2. Vivek Chamoli, `MERN stack` , Intern at cepialabs.
 
