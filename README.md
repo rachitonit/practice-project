@@ -6,6 +6,6 @@
 
 # Write your name, favorite tech stack, where you work 
 
-1. Rachit singh, `go lang + MERN stack` , Associate engineer at cepialabs. 
+1. Anubhav, `SQL + MERN stack` , Programmer Analyst intern at cepialabs. 
 
 
