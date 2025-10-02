@@ -14,3 +14,4 @@
 5. Aayush Rathod, `Python + MERN stack`, Batch 10 am to 11 am, Programmer Analyst intern at cepialabs.
 6. MD TANVEER AHMAD , ` MERN stack` , programmer analyst intern} at cepialabs.
 7. Shrey Mishra ,batch 10 am  to 11 am , python + MERN stack , Intern at Cepialabs 
+8. Vivek Chamoli, `MERN stack` , Intern at cepialabs.
