@@ -1,9 +1,14 @@
 # Introduce yourself
-My name is Tanveer , I belongs to dhanbad , Currently I pursue BCA from shoolini University , I am intrested in full stack development , I have little bit skill on mern stack , Thank you sir
+
+1. fork this repo
+2. clone this repo locally
+3. create a branch /your-name
+
+# Write your name, favorite tech stack, where you work
 
 
-# Write your name, favorite tech stack, where you work 
-
-1. MD TANVEER AHMAD , ` MERN stack` , {programmer analyst intern} at cepialabs. 
-
-
+1. Anubhav, `SQL + MERN stack` , Programmer Analyst intern at cepialabs. 
+2. Tanmay khandelwal, `Python`, Programmer Analyst intern at cepialabs. 
+3. Shrey mishra 'Python + `MERN` ' web development intern at cepialabs
+4. Aayush Rathod, `Python + MERN stack`, Batch 10 am to 11 am, Programmer Analyst intern at cepialabs.
+5. MD TANVEER AHMAD , ` MERN stack` , programmer analyst intern} at cepialabs. 
