@@ -4,7 +4,6 @@
 2. clone this repo locally
 3. create a branch /your-name
 
-
 # Write your name, favorite tech stack, where you work 
 
 1. Rachit singh, `go lang + MERN stack` , Associate engineer at cepialabs.  
@@ -15,3 +14,6 @@
 6. MD TANVEER AHMAD , ` MERN stack` , programmer analyst intern} at cepialabs.
 7. Shrey Mishra ,batch 10 am  to 11 am , python + MERN stack , Intern at Cepialabs 
 8. Vivek Chamoli, `MERN stack` , Intern at cepialabs.
+
+
+# Introduction of New batch 
