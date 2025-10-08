@@ -17,4 +17,3 @@
 
 # Introduction of New batch 
 
-1. Rachit singh, `go lang + MERN stack` , Associate engineer at cepialabs.  
