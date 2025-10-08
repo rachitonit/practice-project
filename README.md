@@ -16,4 +16,4 @@
 8. Vivek Chamoli, `MERN stack` , Intern at cepialabs.
 
 # Introduction of New batch 
-
+1.Chandraveer singh Chauhan,Full stack developer, Intern at Cepialabs
