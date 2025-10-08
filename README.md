@@ -17,3 +17,4 @@
 
 # Introduction of New batch 
 
+Abhay Kumar, `Python`, Programmer Analyst intern at cepialabs.
