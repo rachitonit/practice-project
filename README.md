@@ -17,3 +17,4 @@
 
 # Introduction of New batch 
 
+- Abhinav Harshikesh, `Python + MERN Stack`, Programmer Analyst Intern, at Cepialabs
