@@ -17,4 +17,7 @@
 
 # Introduction of New batch 
 
-Abhay Kumar, `Python`, Programmer Analyst intern at cepialabs.
+- Taniya Kanojiya, `Python`, Programmer Analyst Intern at CepiaLabs.
+- Neelesh Gupta, `JavaScript + SQL`, Programmer Analyst Intern at CepiaLabs
+- Abhay Kumar, `Python`, Programmer Analyst intern at cepialabs.
+
