@@ -16,4 +16,4 @@
 8. Vivek Chamoli, `MERN stack` , Intern at cepialabs.
 
 # Introduction of New batch 
-
+Abhishek Thakur, `MERN stack` , Programmer Analyst Intern at cepialabs.
