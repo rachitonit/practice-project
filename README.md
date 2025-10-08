@@ -19,3 +19,5 @@
 
 - Taniya Kanojiya, `Python`, Programmer Analyst Intern at CepiaLabs.
 * Basu Kumar, 'MERN Stack+ Python + 'SQL', Programmer Analyst intern at CepiaLabs
+- Neelesh Gupta, `JavaScript + SQL`, Programmer Analyst Intern at CepiaLabs
+
