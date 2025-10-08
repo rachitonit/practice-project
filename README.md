@@ -18,3 +18,4 @@
 # Introduction of New batch 
 
 - Taniya Kanojiya, `Python`, Programmer Analyst Intern at CepiaLabs.
+* Basu Kumar, 'MERN Stack+ Python + 'SQL', Programmer Analyst intern at CepiaLabs
