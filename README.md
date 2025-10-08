@@ -3,6 +3,8 @@
 1. fork this repo
 2. clone this repo locally
 3. create a branch /your-name
+4. Please fork this repo first
+
 
 # Write your name, favorite tech stack, where you work 
 
@@ -17,4 +19,5 @@
 
 # Introduction of New batch 
 
-1. Rachit singh, `go lang + MERN stack` , Associate engineer at cepialabs.  
+1. Rachit singh, `go lang + MERN stack` , Associate engineer at cepialabs.
+2. 
