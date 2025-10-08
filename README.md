@@ -16,4 +16,4 @@
 8. Vivek Chamoli, `MERN stack` , Intern at cepialabs.
 
 # Introduction of New batch 
-
+- Padeep Singh Rawat, `Python + MERN stack` , Programmer Analyst intern at cepialabs.
