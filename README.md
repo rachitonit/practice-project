@@ -17,3 +17,4 @@
 
 # Introduction of New batch 
 
+- Dhruv , `MERN stack` , Programmer analyst at cepialabs.
