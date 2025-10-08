@@ -15,7 +15,6 @@
 7. Shrey Mishra ,batch 10 am  to 11 am , python + MERN stack , Intern at Cepialabs 
 8. Vivek Chamoli, `MERN stack` , Intern at cepialabs.
 
-
 # Introduction of New batch 
 
 1. Rachit singh, `go lang + MERN stack` , Associate engineer at cepialabs.  
