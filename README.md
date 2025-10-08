@@ -19,4 +19,5 @@
 
 - Taniya Kanojiya, `Python`, Programmer Analyst Intern at CepiaLabs.
 - Neelesh Gupta, `JavaScript + SQL`, Programmer Analyst Intern at CepiaLabs
+- Diksha Rode , `Full Stack Developer`, Programmer Analyst Intern at CepiaLabs
 
