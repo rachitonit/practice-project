@@ -17,3 +17,4 @@
 
 # Introduction of New batch 
 
+Nidhi Pandey `Programmer Anayst`, Intern at cepialabs.
