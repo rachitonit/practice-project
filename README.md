@@ -18,3 +18,6 @@
 # Introduction of New batch 
 
 - Dhruv , `MERN stack` , Programmer analyst at cepialabs.
+- Taniya Kanojiya, `Python`, Programmer Analyst Intern at CepiaLabs.
+- Neelesh Gupta, `JavaScript + SQL`, Programmer Analyst Intern at CepiaLabs
+
