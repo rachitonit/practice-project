@@ -11,5 +11,14 @@
 6. MD TANVEER AHMAD , ` MERN stack` , programmer analyst intern, at cepialabs.
 7. Shrey Mishra ,batch 10 am  to 11 am , python + MERN stack , Intern at Cepialabs 
 8. Vivek Chamoli, `MERN stack` , Intern at cepialabs.
+
+
 # Introduction of New batch 
-1. Shashank, `MERN stack`, Programmer Analyst Intern, at cepialabs.
+
+- Taniya Kanojiya, `Python`, Programmer Analyst Intern at CepiaLabs.
+- Neelesh Gupta, `JavaScript + SQL`, Programmer Analyst Intern at CepiaLabs
+- Chandraveer singh Chauhan,Full stack developer, Intern at Cepialabs
+- Abhinav Harshikesh, `Python + MERN Stack`, Programmer Analyst Intern, at Cepialabs
+- Dhruv , `MERN stack` , Programmer analyst at cepialabs.
+- Padeep Singh Rawat, `Python + MERN stack` , Programmer Analyst intern at cepialabs.
+- Shashank, `MERN stack`, Programmer Analyst Intern, at cepialabs
