@@ -1,11 +1,13 @@
 # Introduce yourself
 
+
 1. fork this repo
 2. clone this repo locally
 3. create a branch /your-name
 
-# Write your name, favorite tech stack, where you work 
 
+
+# Write your name, favorite tech stack, where you work 
 1. Rachit singh, `go lang + MERN stack` , Associate engineer at cepialabs.  
 2. Anubhav, `SQL + MERN stack` , Programmer Analyst intern at cepialabs. 
 3. Tanmay khandelwal, `Python`, Programmer Analyst intern at cepialabs. 
@@ -19,5 +21,15 @@
 
 - Taniya Kanojiya, `Python`, Programmer Analyst Intern at CepiaLabs.
 - Neelesh Gupta, `JavaScript + SQL`, Programmer Analyst Intern at CepiaLabs
+- Chandraveer singh Chauhan,Full stack developer, Intern at Cepialabs
+- Abhinav Harshikesh, `Python + MERN Stack`, Programmer Analyst Intern, at Cepialabs
+- Dhruv , `MERN stack` , Programmer analyst at cepialabs.
+- Padeep Singh Rawat, `Python + MERN stack` , Programmer Analyst intern at cepialabs.
+- Shashank, `MERN stack`, Programmer Analyst Intern, at cepialabs
+- Abhishek, `MERN STACK + DSA` , Intern at cepialabs.
+- Nidhi Pandey `Programmer Anayst`, Intern at cepialabs.
+- Anil Dhoundiyal, `Mern + AI`, Programmer Analyst Intern at CepiaLabs.
+- Abhishek Thakur, `MERN stack` , Programmer Analyst Intern at cepialabs.
+- Atul Soam, 'python + SQL', Programmer Analyst Intern at CepiaLabs. 
 - Abhay Kumar, `Python`, Programmer Analyst intern at cepialabs.
 
