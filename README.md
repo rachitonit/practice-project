@@ -29,3 +29,4 @@
 - Abhishek, `MERN STACK + DSA` , Intern at cepialabs.
 - Nidhi Pandey `Programmer Anayst`, Intern at cepialabs.
 - Anil Dhoundiyal, `Mern + AI`, Programmer Analyst Intern at CepiaLabs.
+- Abhishek Thakur, `MERN stack` , Programmer Analyst Intern at cepialabs.
