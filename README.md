@@ -20,5 +20,7 @@
 
 - Taniya Kanojiya, `Python`, Programmer Analyst Intern at CepiaLabs.
 - Neelesh Gupta, `JavaScript + SQL`, Programmer Analyst Intern at CepiaLabs
-
+- **Name:** Priyanshu Kumari  
+**Skills:** `Nextjs Full Stack`  
+**Internship:** Cepialabs as Programmer analyst.
 
