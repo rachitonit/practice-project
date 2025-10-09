@@ -6,6 +6,8 @@
 
 # Write your name, favorite tech stack, where you work
 
+# Write your name, favorite tech stack, where you work
+
 1. Rachit singh, `go lang + MERN stack` , Associate engineer at cepialabs.
 2. Anubhav, `SQL + MERN stack` , Programmer Analyst intern at cepialabs.
 3. Tanmay khandelwal, `Python`, Programmer Analyst intern at cepialabs.
@@ -16,10 +18,15 @@
 8. Vivek Chamoli, `MERN stack` , Intern at cepialabs.
 
 # Introduction of New batch
+7. Shrey Mishra ,batch 10 am  to 11 am , python + MERN stack , Intern at Cepialabs
+8. Vivek Chamoli, `MERN stack` , Intern at cepialabs.
+
+# Introduction of New batch
+
 
 - Taniya Kanojiya, `Python`, Programmer Analyst Intern at CepiaLabs.
 - Neelesh Gupta, `JavaScript + SQL`, Programmer Analyst Intern at CepiaLabs.
-- Atul Soam, 'Python + SQL', programmer Analyst Intern at CepiaLabs.
+- Atul Soam, `Python + SQL`, programmer Analyst Intern at CepiaLabs.
 - Neelesh Gupta, `JavaScript + SQL`, Programmer Analyst Intern at CepiaLabs
 - Chandraveer singh Chauhan,Full stack developer, Intern at Cepialabs
 - Abhinav Harshikesh, `Python + MERN Stack`, Programmer Analyst Intern, at Cepialabs
@@ -34,3 +41,7 @@
 - Abhay Kumar, `Python`, Programmer Analyst intern at cepialabs.
 - Basu Kumar, 'MERN Stack+ Python + 'SQL', Programmer Analyst intern at CepiaLabs
 - Himansu singh, 'MERN Stack + SQL', Programmer Analyst intern at CepiaLabs
+- Atul Soam, `python + SQL`, Programmer Analyst Intern at CepiaLabs. 
+- Abhay Kumar, `Python`, Programmer Analyst intern at cepialabs.
+- Basu Kumar, `MERN Stack+ Python + 'SQL`, Programmer Analyst intern at CepiaLabs
+- Gourob Das, `DEVOPS and cloud Operations with Python and AWS`, Intern at cepialabs.
