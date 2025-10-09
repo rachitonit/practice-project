@@ -19,7 +19,6 @@
 
 # Introduction of New batch 
 
-- Dhruv , `MERN stack` , Programmer analyst at cepialabs.
 - Taniya Kanojiya, `Python`, Programmer Analyst Intern at CepiaLabs.
 - Neelesh Gupta, `JavaScript + SQL`, Programmer Analyst Intern at CepiaLabs
 - Chandraveer singh Chauhan,Full stack developer, Intern at Cepialabs
@@ -32,4 +31,5 @@
 - Anil Dhoundiyal, `Mern + AI`, Programmer Analyst Intern at CepiaLabs.
 - Abhishek Thakur, `MERN stack` , Programmer Analyst Intern at cepialabs.
 - Atul Soam, 'python + SQL', Programmer Analyst Intern at CepiaLabs. 
+- Abhay Kumar, `Python`, Programmer Analyst intern at cepialabs.
 
