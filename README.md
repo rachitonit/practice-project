@@ -16,4 +16,8 @@
 8. Vivek Chamoli, `MERN stack` , Intern at cepialabs.
 
 # Introduction of New batch 
-1.Chandraveer singh Chauhan,Full stack developer, Intern at Cepialabs
+
+- Taniya Kanojiya, `Python`, Programmer Analyst Intern at CepiaLabs.
+- Neelesh Gupta, `JavaScript + SQL`, Programmer Analyst Intern at CepiaLabs
+- Chandraveer singh Chauhan,Full stack developer, Intern at Cepialabs
+- Abhinav Harshikesh, `Python + MERN Stack`, Programmer Analyst Intern, at Cepialabs
