@@ -30,3 +30,5 @@
 - Nidhi Pandey `Programmer Anayst`, Intern at cepialabs.
 - Anil Dhoundiyal, `Mern + AI`, Programmer Analyst Intern at CepiaLabs.
 - Abhishek Thakur, `MERN stack` , Programmer Analyst Intern at cepialabs.
+- Atul Soam, 'python + SQL', Programmer Analyst Intern at CepiaLabs. 
+
