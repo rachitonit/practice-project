@@ -22,3 +22,4 @@
 - Padeep Singh Rawat, `Python + MERN stack` , Programmer Analyst intern at cepialabs.
 - Shashank, `MERN stack`, Programmer Analyst Intern, at cepialabs
 - Abhishek, `MERN STACK + DSA` , Intern at cepialabs.
+- Nidhi Pandey `Programmer Anayst`, Intern at cepialabs.
