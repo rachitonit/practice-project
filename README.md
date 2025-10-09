@@ -35,3 +35,4 @@
 - Abhishek Thakur, `MERN stack` , Programmer Analyst Intern at cepialabs.
 - Atul Soam, 'python + SQL', Programmer Analyst Intern at CepiaLabs. 
 - Abhay Kumar, `Python`, Programmer Analyst intern at cepialabs.
+- Basu Kumar, 'MERN Stack+ Python + 'SQL', Programmer Analyst intern at CepiaLabs
