@@ -19,3 +19,6 @@
 
 1. Rachit singh, `go lang + MERN stack` , Associate engineer at cepialabs.
 2. Himansu singh , ` MERN stack` , programmer analyst intern, at cepialabs.
+- Taniya Kanojiya, `Python`, Programmer Analyst Intern at CepiaLabs.
+- Neelesh Gupta, `JavaScript + SQL`, Programmer Analyst Intern at CepiaLabs
+
