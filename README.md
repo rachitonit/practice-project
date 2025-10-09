@@ -21,3 +21,5 @@
 - Neelesh Gupta, `JavaScript + SQL`, Programmer Analyst Intern at CepiaLabs
 - Chandraveer singh Chauhan,Full stack developer, Intern at Cepialabs
 - Abhinav Harshikesh, `Python + MERN Stack`, Programmer Analyst Intern, at Cepialabs
+- Dhruv , `MERN stack` , Programmer analyst at cepialabs.
+
