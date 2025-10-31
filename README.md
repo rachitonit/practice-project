@@ -41,3 +41,4 @@
  
 
 # Introduction to New batch 29-oct-2025
+- Hrushikesh Nandi, `Python + Django`, Programmer Analyst Intern at CepiaLabs.
