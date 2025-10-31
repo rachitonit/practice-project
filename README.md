@@ -42,3 +42,4 @@
 # Introduction to New batch 29-oct-2025
 
 - Rachit Singh, `React Native + Go lang for backend`, Associate Engineer
+- Prince, `Mern Stack + data science`, Intern at cepialabs.
