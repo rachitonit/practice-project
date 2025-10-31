@@ -37,6 +37,7 @@
 - Abhay Kumar, `Python`, Programmer Analyst intern at cepialabs.
 - Basu Kumar, `MERN Stack+ Python + 'SQL`, Programmer Analyst intern at CepiaLabs
 - Gourob Das, `DEVOPS and cloud Operations with Python and AWS`, Intern at cepialabs.
+- Dewang,`MERN Stack+ DSA + 'SQL`,Intern at Cepialabs.
 
 
 # Introduction to New batch 29-oct-2025
