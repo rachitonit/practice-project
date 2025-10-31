@@ -41,3 +41,4 @@
  
 
 # Introduction to New batch 29-oct-2025
+- Prashant Gupta, `MERN Stack+ Data Analyst + 'DSA`, Programmer Analyst intern at CepiaLabs
