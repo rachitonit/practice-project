@@ -38,6 +38,7 @@
 - Basu Kumar, `MERN Stack+ Python + 'SQL`, Programmer Analyst intern at CepiaLabs
 - Gourob Das, `DEVOPS and cloud Operations with Python and AWS`, Intern at cepialabs.
 - Shishank soni`MERN Stack+ Python + 'DSA`, Programmer Analyst intern at CepiaLabs
+- Siddharth Hirvaniya `python+ AI/ML+LLM/RL `,Programmer Analyst Intern at cepialabs.
  
 
 # Introduction to New batch 29-oct-2025
