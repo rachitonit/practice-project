@@ -40,3 +40,4 @@
 
 - Shishank soni`MERN Stack+ Python + 'DSA`, Programmer Analyst intern at CepiaLabs
 - Pragati Bhardwaj ,`MERN STACK + DATA ANALYST`, Programmer Analyst intern at CepiaLabs
+- Prince ,`MERN STACK + DATA ANALYST`, Programmer Analyst intern at CepiaLabs
