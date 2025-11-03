@@ -38,6 +38,4 @@
 
 # Introduction to New batch 29-oct-2025
 
-- Shishank soni`MERN Stack+ Python + 'DSA`, Programmer Analyst intern at CepiaLabs
-- Pragati Bhardwaj ,`MERN STACK + DATA ANALYST`, Programmer Analyst intern at CepiaLabs
-- Prince ,`MERN STACK + DATA ANALYST`, Programmer Analyst intern at CepiaLabs
+- Rachit Singh, `React Native + Go lang for backend`, Associate Engineer
