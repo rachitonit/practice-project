@@ -16,6 +16,7 @@
 6. MD TANVEER AHMAD , ` MERN stack` , programmer analyst intern, at cepialabs.
 7. Shrey Mishra ,batch 10 am  to 11 am , python + MERN stack , Intern at Cepialabs
 8. Vivek Chamoli, `MERN stack` , Intern at cepialabs.
+9. Mohit , Mern stack , Intern at cipialabs .
 
 # Introduction of New batch
 
@@ -41,3 +42,4 @@
  
 
 # Introduction to New batch 29-oct-2025
+1. Mohit , Mern stack , Intern at cipialabs .
