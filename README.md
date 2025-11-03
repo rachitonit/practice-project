@@ -45,4 +45,4 @@
 - Pragati Bhardwaj ,`MERN STACK + DATA ANALYST`, Programmer Analyst intern at CepiaLabs
 - Prashant Gupta, `MERN Stack+ Data Analyst + 'DSA`, Programmer Analyst intern at CepiaLabs
 - Hrushikesh Nandi, `Python + Django`, Programmer Analyst Intern at CepiaLabs.
--   Diksha Dhanraj  Rode, `Full stack Developer `, Programmer Analyst intern at cepialabs.
+-    Diksha Dhanraj  Rode, `Full stack Developer `, Programmer Analyst intern at cepialabs.
