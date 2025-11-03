@@ -42,3 +42,4 @@
 # Introduction to New batch 29-oct-2025
 
 - Shishank soni`MERN Stack+ Python + 'DSA`, Programmer Analyst intern at CepiaLabs
+- Bhuvendra singh`Full Stack + DevOps`, Programmer Analyst intern at CepiaLabs
