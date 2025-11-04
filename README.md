@@ -54,15 +54,4 @@
 - Hrushikesh Nandi, `Python + Django`, Programmer Analyst Intern at CepiaLabs.,
 - Gaurav Pandey `'Full stack developer'`, Intern at Cepialabs
 - Hrushikesh Nandi, `Python + Django`, Programmer Analyst Intern at CepiaLabs.
-- Arpit Sharma, 'AIML Engineer', Programmer Analyst Intern at CepiaLabs.
-- Sandeep Kushwaha, 'Python + Django'
-- Krishna Kushwah ,`MERN STACK + DATA ANALYST`, Programmer Analyst intern at CepiaLabs
-- Himanshu singh, `JAVA + MERN + AWS`,Programmer Analyst Intern at CepiaLabs.
-- Bhuvendra singh`Full Stack + DevOps`, Programmer Analyst intern at CepiaLabs.
-- Mohit Saini. `MERN STCAK` Interns at CepiaLabs.
-- Dewang`MERN Stack+ SQL + 'DSA`, Programmer Analyst intern at CepiaLabs.
-- Trivedi Rahul`Python + SQL`, Programmer Analyst intern at CepiaLabs
-- Gautam Govind, `Java FullStack`, Programmer Analyst Intern at cepiaLabs
-- Nitesh Patel,`MERN Stack` Full Stack Web Developer
-
-
+- Aman Markam, `Python + Django`, Programmer Analyst Intern at CepiaLabs.
