@@ -42,3 +42,4 @@
 # Introduction to New batch 29-oct-2025
 
 - Rachit Singh, `React Native + Go lang for backend`, Associate Engineer
+- Ankur Kumar, `MERN Stack+ Python + 'SQL`, Programmer Analyst intern at CepiaLabs.
