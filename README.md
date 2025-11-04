@@ -65,4 +65,3 @@
 - Gautam Govind, `Java FullStack`, Programmer Analyst Intern at cepiaLabs
 - Nitesh Patel,`MERN Stack` Full Stack Web Developer
 
-
