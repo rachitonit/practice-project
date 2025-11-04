@@ -1,8 +1,12 @@
 # Introduce yourself
 
 1. fork this repo
-2. clone this repo locally
+2. clone forked repo locally
 3. create a branch /your-name
+4. Add your introduction
+5. commit the merge
+6. push it to the main branch 
+7. raise the pull request from github
 
 # Write your name, favorite tech stack, where you work
 
