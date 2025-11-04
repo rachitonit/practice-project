@@ -64,5 +64,6 @@
 - Trivedi Rahul`Python + SQL`, Programmer Analyst intern at CepiaLabs
 - Gautam Govind, `Java FullStack`, Programmer Analyst Intern at cepiaLabs
 - Nitesh Patel,`MERN Stack` Full Stack Web Developer
+- Aman Markam, `Python FullStack`, Programmer Analyst Intern at cepiaLabs
 
 
