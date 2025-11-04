@@ -15,6 +15,7 @@
 7. Shrey Mishra ,batch 10 am to 11 am , python + MERN stack , Intern at Cepialabs
 8. Vivek Chamoli, `MERN stack` , Intern at cepialabs.
 9. Mohit , Mern stack , Intern at cipialabs .
+10. Priyanshu Kumari, `Nextjs Full Stack Developer`, Programmer analyst at CepiaLabs.
 
 
 # Introduction of New batch
@@ -59,4 +60,5 @@
 - Trivedi Rahul`Python + SQL`, Programmer Analyst intern at CepiaLabs
 - Gautam Govind, `Java FullStack`, Programmer Analyst Intern at cepiaLabs
 - Nitesh Patel,`MERN Stack` Full Stack Web Developer
+
 
