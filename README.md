@@ -16,6 +16,7 @@
 8. Vivek Chamoli, `MERN stack` , Intern at cepialabs.
 9. Mohit , Mern stack , Intern at cipialabs .
 
+
 # Introduction of New batch
 
 - Taniya Kanojiya, `Python`, Programmer Analyst Intern at CepiaLabs.
@@ -35,6 +36,7 @@
 - Abhay Kumar, `Python`, Programmer Analyst intern at cepialabs.
 - Basu Kumar, `MERN Stack+ Python + 'SQL`, Programmer Analyst intern at CepiaLabs
 - Gourob Das, `DEVOPS and cloud Operations with Python and AWS`, Intern at cepialabs.
+- Gautam Govind, `Java FullStack`, Programmer Analyst Intern at cepiaLabs
 
 # Introduction to New batch 29-oct-2025
 
@@ -55,3 +57,4 @@
 - Mohit Saini. `MERN STCAK` Interns at CepiaLabs.
 - Dewang`MERN Stack+ SQL + 'DSA`, Programmer Analyst intern at CepiaLabs.
 - Trivedi Rahul`Python + SQL`, Programmer Analyst intern at CepiaLabs
+- Gautam Govind, `Java FullStack`, Programmer Analyst Intern at cepiaLabs
