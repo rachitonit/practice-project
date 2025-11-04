@@ -36,7 +36,6 @@
 - Basu Kumar, `MERN Stack+ Python + 'SQL`, Programmer Analyst intern at CepiaLabs
 - Gourob Das, `DEVOPS and cloud Operations with Python and AWS`, Intern at cepialabs.
 
-
 # Introduction to New batch 29-oct-2025
 
 
@@ -46,5 +45,9 @@
 - Pragati Bhardwaj ,`MERN STACK + DATA ANALYST`, Programmer Analyst intern at CepiaLabs
 - Prashant Gupta, `MERN Stack+ Data Analyst + 'DSA`, Programmer Analyst intern at CepiaLabs
 - Hrushikesh Nandi, `Python + Django`, Programmer Analyst Intern at CepiaLabs.
-- Mohit Saini `MERN STCAK` Interns at CepiaLabs 
 
+- Mohit Saini. `MERN STCAK` Interns at CepiaLabs.
+
+- Krishna Kushwah ,`MERN STACK + DATA ANALYST`, Programmer Analyst intern at CepiaLabs
+- Himanshu singh, `JAVA + MERN + AWS`,Programmer Analyst Intern at CepiaLabs.
+- Bhuvendra singh`Full Stack + DevOps`, Programmer Analyst intern at CepiaLabs.
