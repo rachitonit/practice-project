@@ -18,11 +18,11 @@
 8. Vivek Chamoli, `MERN stack` , Intern at cepialabs.
 
 # Introduction of New batch
-7. Shrey Mishra ,batch 10 am  to 11 am , python + MERN stack , Intern at Cepialabs
+
+7. Shrey Mishra ,batch 10 am to 11 am , python + MERN stack , Intern at Cepialabs
 8. Vivek Chamoli, `MERN stack` , Intern at cepialabs.
 
 # Introduction of New batch
-
 
 - Taniya Kanojiya, `Python`, Programmer Analyst Intern at CepiaLabs.
 - Neelesh Gupta, `JavaScript + SQL`, Programmer Analyst Intern at CepiaLabs.
@@ -41,7 +41,7 @@
 - Abhay Kumar, `Python`, Programmer Analyst intern at cepialabs.
 - Basu Kumar, 'MERN Stack+ Python + 'SQL', Programmer Analyst intern at CepiaLabs
 - Himansu singh, 'MERN Stack + SQL', Programmer Analyst intern at CepiaLabs
-- Atul Soam, `python + SQL`, Programmer Analyst Intern at CepiaLabs. 
+- Atul Soam, `python + SQL`, Programmer Analyst Intern at CepiaLabs.
 - Abhay Kumar, `Python`, Programmer Analyst intern at cepialabs.
 - Basu Kumar, `MERN Stack+ Python + 'SQL`, Programmer Analyst intern at CepiaLabs
 - Gourob Das, `DEVOPS and cloud Operations with Python and AWS`, Intern at cepialabs.
