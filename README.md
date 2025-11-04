@@ -1,5 +1,4 @@
 # Introduce yourself
-
 1. fork this repo
 2. clone forked repo locally
 3. create a branch /your-name
@@ -49,6 +48,7 @@
 - Rachit Singh, `React Native + Go lang for backend`, Associate Engineer
 - Kanishak todwal 'Full stack developer', Intern at Cepialabs
 - Shishank soni`MERN Stack+ Python + 'DSA`, Programmer Analyst intern at CepiaLabs
+- Gunjan Jain ,Programmer Analyst, Intern at Cepialabs.git status
 - Pragati Bhardwaj ,`MERN STACK + DATA ANALYST`, Programmer Analyst intern at CepiaLabs
 - Prashant Gupta, `MERN Stack+ Data Analyst + 'DSA`, Programmer Analyst intern at CepiaLabs
 - Hrushikesh Nandi, `Python + Django`, Programmer Analyst Intern at CepiaLabs.,
@@ -64,5 +64,6 @@
 - Trivedi Rahul`Python + SQL`, Programmer Analyst intern at CepiaLabs
 - Gautam Govind, `Java FullStack`, Programmer Analyst Intern at cepiaLabs
 - Nitesh Patel,`MERN Stack` Full Stack Web Developer
+
 
 
