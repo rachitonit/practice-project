@@ -44,3 +44,7 @@
 - Prashant Gupta, `MERN Stack+ Data Analyst + 'DSA`, Programmer Analyst intern at CepiaLabs
 - Hrushikesh Nandi, `Python + Django`, Programmer Analyst Intern at CepiaLabs.,
 - Gaurav Pandey `'Full stack developer'`, Intern at Cepialabs
+- Hrushikesh Nandi, `Python + Django`, Programmer Analyst Intern at CepiaLabs.
+- Krishna Kushwah ,`MERN STACK + DATA ANALYST`, Programmer Analyst intern at CepiaLabs
+- Himanshu singh, `JAVA + MERN + AWS`,Programmer Analyst Intern at CepiaLabs.
+- Bhuvendra singh`Full Stack + DevOps`, Programmer Analyst intern at CepiaLabs
