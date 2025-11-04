@@ -53,3 +53,4 @@
 - Himanshu singh, `JAVA + MERN + AWS`,Programmer Analyst Intern at CepiaLabs.
 - Bhuvendra singh`Full Stack + DevOps`, Programmer Analyst intern at CepiaLabs.
 - Mohit Saini. `MERN STCAK` Interns at CepiaLabs.
+- Dewang`MERN Stack+ SQL + 'DSA`, Programmer Analyst intern at CepiaLabs.
