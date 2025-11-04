@@ -1,6 +1,7 @@
 # Introduce yourself
 
 
+
 1. fork this repo
 2. clone this repo locally
 3. create a branch /your-name
@@ -42,3 +43,4 @@
 # Introduction to New batch 29-oct-2025
 
 - Shishank soni`MERN Stack+ Python + 'DSA`, Programmer Analyst intern at CepiaLabs
+- Gunjan Jain — Programmer Analyst, Intern at Cepialabs.git status
