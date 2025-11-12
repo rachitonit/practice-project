@@ -66,4 +66,7 @@
 - Nitesh Patel,`MERN Stack` Full Stack Web Developer
 - Akhilesh Kumar, `JAVA full stack+ MERN `,Programmer Analyst Intern at CepiaLabs.
 
+  # Introduction to New Batch 10-Nov-2025
+  - Sumit Kumar, `Python`, Programmer Analyst at CepiaLabs.
+
 
