@@ -70,3 +70,5 @@
 - Rachit Singh, `React Native + Go lang for backend`, Associate Engineer
 - Lucky, `MERN + Java`, Mentor
 - Radha Maddeshiya, Python + Power BI, Intern at Cepialabs.
+=======
+- Sumit Kumar, `Python`, Programmer Analyst 
