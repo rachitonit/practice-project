@@ -86,3 +86,6 @@
 - Himanshu Agarwal, `React Js`, Programmer Analyst
 - Deepak Sah, `MERN + Spring boot + java` Programmer Analyst
 - Shivam Yadav, `Python`, Programmer Analyst
+- Hariom asati, ` python`, Programmer Analyst
+
+git add README.md
