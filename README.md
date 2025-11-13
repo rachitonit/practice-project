@@ -5,7 +5,7 @@
 3. create a branch /your-name
 4. Add your introduction
 5. commit the merge
-6. push it to the main branch 
+6. push it to the main branch
 7. raise the pull request from github
 
 # Write your name, favorite tech stack, where you work
@@ -20,7 +20,6 @@
 8. Vivek Chamoli, `MERN stack` , Intern at cepialabs.
 9. Mohit , Mern stack , Intern at cipialabs .
 10. Priyanshu Kumari, `Nextjs Full Stack Developer`, Programmer analyst at CepiaLabs.
-
 
 # Introduction of New batch
 
@@ -74,9 +73,9 @@
 - Shivam Yadav ,`Python`,Programmer Analyst
 - Prince Chaudhary, `JAVA full stack+ JAVASCRIPT + MERN `,Full Stack Web Developer Intern at CepiaLabs.
 - Sakshi Rodhiya, `Frontend + React`, Programmer Analyst Intern at CepiaLabsd
-- Sumit Kumar, `Python`, Programmer Analyst 
+- Sumit Kumar, `Python`, Programmer Analyst
 - Gagandeep Singh, `Mern Stack` Programmer Analyst at Capialabs.
-- Kunal Sugandhi, `Python, Linux, SIEM Tools, CEHv13`, Cyber Security Engineer 
+- Kunal Sugandhi, `Python, Linux, SIEM Tools, CEHv13`, Cyber Security Engineer
 - Harsh Jain, `Python` , Programmer Analyst
 - Sarthak Bari, `Data analyst` , Programmer Analyst
 - Md Danish, `MERN Stack (React + Node.js)`, Software Developer
@@ -86,3 +85,4 @@
 - Himanshu Agarwal, `React Js`, Programmer Analyst
 - Deepak Sah, `MERN + Spring boot + java` Programmer Analyst
 - Shivam Yadav, `Python`, Programmer Analyst
+- Ravi Kourav, `MERN Stack ,React Native`, Programmer Analyst
