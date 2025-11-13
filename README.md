@@ -68,3 +68,4 @@
 # Introduction to New batch 10-nov-2025
 
 - Rachit Singh, `React Native + Go lang for backend`, Associate Engineer
+- Sumit Kumar, `Python`, Programmer Analyst 
