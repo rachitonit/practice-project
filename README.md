@@ -69,3 +69,4 @@
 
 - Rachit Singh, `React Native + Go lang for backend`, Associate Engineer
 - Sumit Kumar, `Python`, Programmer Analyst 
+- Ankit Sharma, `Full Stack Developer`, Programmer Analyst - Intern at CepiaLabs
