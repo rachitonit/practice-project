@@ -68,5 +68,4 @@
 # Introduction to New batch 10-nov-2025
 
 - Rachit Singh, `React Native + Go lang for backend`, Associate Engineer
-- Lucky, `MERN + Java`, Mentor
 - Sumit Kumar, `Python`, Programmer Analyst 
