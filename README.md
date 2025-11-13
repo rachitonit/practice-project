@@ -86,3 +86,4 @@
 - Himanshu Agarwal, `React Js`, Programmer Analyst
 - Deepak Sah, `MERN + Spring boot + java` Programmer Analyst
 - Shivam Yadav, `Python`, Programmer Analyst
+- Utkarsh Bhatnagar, 'JAVA full stack Developer' Programmer Analyst at Capialabs.
