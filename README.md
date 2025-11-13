@@ -69,4 +69,4 @@
 
 - Rachit Singh, `React Native + Go lang for backend`, Associate Engineer
 - Sumit Kumar, `Python`, Programmer Analyst 
-- Sachin Kumar,`MERN/MEAN STACK`, Programmer Analst
+- Sachin Kumar,`MERN/MEAN STACK`, Programmer Analyst
