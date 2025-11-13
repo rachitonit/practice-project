@@ -69,3 +69,4 @@
 
 - Rachit Singh, `React Native + Go lang for backend`, Associate Engineer
 - Sumit Kumar, `Python`, Programmer Analyst 
+- Tanush Yadav, `Python + SQL`, Programer Analyst
