@@ -69,3 +69,4 @@
 
 - Rachit Singh, `React Native + Go lang for backend`, Associate Engineer
 - Sumit Kumar, `Python`, Programmer Analyst 
+- Kunal Sugandhi, `Python, Linux, SIEM Tools, CEHv13`, Cyber Security Engineer 
