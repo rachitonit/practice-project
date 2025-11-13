@@ -75,6 +75,7 @@
 - Prince Chaudhary, `JAVA full stack+ JAVASCRIPT + MERN `,Full Stack Web Developer Intern at CepiaLabs.
 - Sakshi Rodhiya, `Frontend + React`, Programmer Analyst Intern at CepiaLabsd
 - Sumit Kumar, `Python`, Programmer Analyst 
+- Gagandeep Singh, `Mern Stack` Programmer Analyst at Capialabs.
 - Kunal Sugandhi, `Python, Linux, SIEM Tools, CEHv13`, Cyber Security Engineer 
 - Harsh Jain, `Python` , Programmer Analyst
 - Sarthak Bari, `Data analyst` , Programmer Analyst
