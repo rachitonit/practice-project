@@ -73,6 +73,7 @@
 - Prince Chaudhary, `JAVA full stack+ JAVASCRIPT + MERN `,Full Stack Web Developer Intern at CepiaLabs.
 - Sakshi Rodhiya, `Frontend + React`, Programmer Analyst Intern at CepiaLabs
 - Sumit Kumar, `Python`, Programmer Analyst 
+- Sarthak Bari, `Data analyst` , Programmer Analyst
 - Md Danish, `MERN Stack (React + Node.js)`, Software Developer
 - Tanush Yadav, `Python + SQL`, Programer Analyst
 - Ankit Sharma, `Full Stack Developer`, Programmer Analyst - Intern at CepiaLabs
