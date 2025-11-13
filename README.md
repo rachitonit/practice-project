@@ -72,9 +72,9 @@
 - Sumit Kumar, `Python`, Programmer Analyst
 - Sakshi Rodhiya, `Frontend + React`, Programmer Analyst Intern at CepiaLabs
 - Sumit Kumar, `Python`, Programmer Analyst 
+- Tanush Yadav, `Python + SQL`, Programer Analyst
 - Ankit Sharma, `Full Stack Developer`, Programmer Analyst - Intern at CepiaLabs
 - Sachin Kumar,`MERN/MEAN STACK`, Programmer Analyst
 - Himanshu Agarwal, `React Js`, Programmer Analyst
 - Deepak Sah, `MERN + Spring boot + java` Programmer Analyst
 - Shivam Yadav, `Python`, Programmer Analyst
-
