@@ -69,6 +69,7 @@
 # Introduction to New batch 10-nov-2025
 
 - Rachit Singh, `React Native + Go lang for backend`, Associate Engineer
+- Sumit Kumar, `Python`, Programmer Analyst
 - Lucky, `MERN + Java`, Mentor
 - Radha Maddeshiya, Python + Power BI, Intern at Cepialabs.
 - Shivam Yadav ,`Python`,Programmer Analyst
@@ -86,3 +87,4 @@
 - Himanshu Agarwal, `React Js`, Programmer Analyst
 - Deepak Sah, `MERN + Spring boot + java` Programmer Analyst
 - Shivam Yadav, `Python`, Programmer Analyst
+- Rishabh Kumar Pandey `Full Stack Developer`,Programmer Analyst
