@@ -69,5 +69,6 @@
 # Introduction to New batch 10-nov-2025
 
 - Rachit Singh, `React Native + Go lang for backend`, Associate Engineer
-- Sumit Kumar, `Python`, Programmer Analyst
+- Sumit Kumar, `Python`, Programmer Analyst 
+- Deepak Sah, `MERN + Spring boot + java` Programmer Analyst
 - Shivam Yadav, `Python`, Programmer Analyst
