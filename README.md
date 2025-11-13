@@ -63,10 +63,20 @@
 - Trivedi Rahul`Python + SQL`, Programmer Analyst intern at CepiaLabs
 - Gautam Govind, `Java FullStack`, Programmer Analyst Intern at cepiaLabs
 - Nitesh Patel,`MERN Stack` Full Stack Web Developer
+- Prince,`MERN Stack+ SQL + 'DSA`, Programmer Analyst intern at CepiaLabs.
 - Akhilesh Kumar, `JAVA full stack+ MERN `,Programmer Analyst Intern at CepiaLabs.
 
 # Introduction to New batch 10-nov-2025
 
 - Rachit Singh, `React Native + Go lang for backend`, Associate Engineer
+- Sumit Kumar, `Python`, Programmer Analyst
+- Prince Chaudhary, `JAVA full stack+ JAVASCRIPT + MERN `,Full Stack Web Developer Intern at CepiaLabs.
+- Sakshi Rodhiya, `Frontend + React`, Programmer Analyst Intern at CepiaLabs
 - Sumit Kumar, `Python`, Programmer Analyst 
 - Md Danish, `MERN Stack (React + Node.js)`, Software Developer
+- Tanush Yadav, `Python + SQL`, Programer Analyst
+- Ankit Sharma, `Full Stack Developer`, Programmer Analyst - Intern at CepiaLabs
+- Sachin Kumar,`MERN/MEAN STACK`, Programmer Analyst
+- Himanshu Agarwal, `React Js`, Programmer Analyst
+- Deepak Sah, `MERN + Spring boot + java` Programmer Analyst
+- Shivam Yadav, `Python`, Programmer Analyst
