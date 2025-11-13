@@ -79,7 +79,7 @@
 - Kunal Sugandhi, `Python, Linux, SIEM Tools, CEHv13`, Cyber Security Engineer 
 - Harsh Jain, `Python` , Programmer Analyst
 - Sarthak Bari, `Data analyst` , Programmer Analyst
-- Md Danish, `MERN Stack (React + Node.js)`, Software Developer
+- Md Danish, `MERN Stack (React + Node.js) + Java + Spring Boot`, Programmer Analyst
 - Tanush Yadav, `Python + SQL`, Programer Analyst
 - Ankit Sharma, `Full Stack Developer`, Programmer Analyst - Intern at CepiaLabs
 - Sachin Kumar,`MERN/MEAN STACK`, Programmer Analyst
