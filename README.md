@@ -86,3 +86,4 @@
 - Himanshu Agarwal, `React Js`, Programmer Analyst
 - Deepak Sah, `MERN + Spring boot + java` Programmer Analyst
 - Shivam Yadav, `Python`, Programmer Analyst
+- Vishal, `MERN Stack Developer`, Programmer Analyst - Intern at CepiaLabs
