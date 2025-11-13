@@ -70,6 +70,7 @@
 
 - Rachit Singh, `React Native + Go lang for backend`, Associate Engineer
 - Sumit Kumar, `Python`, Programmer Analyst
+- Prince Chaudhary, `JAVA full stack+ JAVASCRIPT + MERN `,Full Stack Web Developer Intern at CepiaLabs.
 - Sakshi Rodhiya, `Frontend + React`, Programmer Analyst Intern at CepiaLabs
 - Sumit Kumar, `Python`, Programmer Analyst 
 - Tanush Yadav, `Python + SQL`, Programer Analyst
