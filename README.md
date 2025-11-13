@@ -45,7 +45,6 @@
 
 # Introduction to New batch 29-oct-2025
 
-
 - Rachit Singh, `React Native + Go lang for backend`, Associate Engineer
 - Kanishak todwal 'Full stack developer', Intern at Cepialabs
 - Shishank soni`MERN Stack+ Python + 'DSA`, Programmer Analyst intern at CepiaLabs
@@ -65,3 +64,9 @@
 - Gautam Govind, `Java FullStack`, Programmer Analyst Intern at cepiaLabs
 - Nitesh Patel,`MERN Stack` Full Stack Web Developer
 - Prince,`MERN Stack+ SQL + 'DSA`, Programmer Analyst intern at CepiaLabs.
+- Akhilesh Kumar, `JAVA full stack+ MERN `,Programmer Analyst Intern at CepiaLabs.
+
+# Introduction to New batch 10-nov-2025
+
+- Rachit Singh, `React Native + Go lang for backend`, Associate Engineer
+- Sumit Kumar, `Python`, Programmer Analyst 
