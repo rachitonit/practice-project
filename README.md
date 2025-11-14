@@ -86,4 +86,5 @@
 - Himanshu Agarwal, `React Js`, Programmer Analyst
 - Deepak Sah, `MERN + Spring boot + java` Programmer Analyst
 - Shivam Yadav, `Python`, Programmer Analyst
+- Shubham Jaiswal, 'Python + SQL + Informatica Powercenter' , Programmer Analyst
 - Jayant Dhundhara, `C++ + Laravel + SQL` Programmer Analyst
