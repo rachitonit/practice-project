@@ -86,4 +86,4 @@
 - Himanshu Agarwal, `React Js`, Programmer Analyst
 - Deepak Sah, `MERN + Spring boot + java` Programmer Analyst
 - Shivam Yadav, `Python`, Programmer Analyst
-- Chhavi choudhary, `Python + ML + Power BI` , Data Scientist
+- Chhavi choudhary, `Python + Power BI` , Data Scientist
